@@ -6,7 +6,8 @@ I'm **Harikrishnan**, a seasoned DevOps Engineer with **4 years** of experience 
 - 💻 I specialize in **Jenkins** for continuous integration, **Docker** for containerization, **AWS services** like **ECS** and **ECR** for scalable deployments, **Kubernetes** for orchestration, and **GitHub** for version control and collaboration.
 - 🌱 Currently, I'm delving deeper into advanced Kubernetes concepts and exploring new tools to optimize cloud-native architectures.
 - 🔧 I thrive on solving complex problems and optimizing processes to drive efficiency and reliability in software delivery pipelines.
-- 💡 I have a long-term vision of nurturing and growing within a company, contributing to its success through innovative DevOps practices and solutions.
+- 💡 Here's a random tech-inspired quote of the day: "Debugging is like being the detective in a crime movie where you're also the murderer." 🔍🕵️‍♂️
+- 😄 And here's a bit of humor: "Why do programmers prefer dark mode? Because light attracts bugs!" 🌑🐛
 - 💬 I'm always open to collaboration on exciting projects and initiatives, leveraging my expertise to create impactful solutions.
 - 👨‍💻 I am open to:
   - Any collaboration work.
