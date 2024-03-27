@@ -14,7 +14,7 @@ I'm **Harikrishnan**, a seasoned DevOps Engineer with **4 years** of experience 
   - Machine learning projects (development or research).
   - Research internships.
   - Available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
-- 📫 Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) to discuss DevOps, technology, or anything tech-related!
+- 📫 Feel free to reach out to me via [email](harshakrithvik@gmail.com) to discuss DevOps, technology, or anything tech-related!
 
 Let's connect, collaborate, and innovate together in the ever-evolving landscape of **DevOps** and **cloud technologies**!
 
